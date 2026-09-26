@@ -1,0 +1,6 @@
+{
+  "name": "Laxmi Digital Photo Studio",
+  "description": "Premium photography studio offering wedding, pre-wedding, portrait, cinematic films, and event photography with seamless online booking and client galleries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
